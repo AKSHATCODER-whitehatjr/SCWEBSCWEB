@@ -1,0 +1,42 @@
+body{
+text-align: center;
+background-color:forestgreen;
+}
+
+
+#TP{
+height: 300px;
+ width: 400px;     
+}
+.navbar-header{
+background-color: blue;     
+}
+ul{
+background-color: blue;    
+}
+#marqueeStyle{
+color: black;
+font-size:40px;     
+}
+#lib{
+width: 400px;
+height:300px;
+align-self: center;   
+}
+#SOCCER{
+width: 200px;
+height:250px; 
+border-width:10px;
+border-color: gold;
+}
+.row{
+align-content:     
+}
+#phone{
+ width: 200px;
+height:250px   
+}
+#food{
+width :400px;
+height: 250px;    
+}
